@@ -1,7 +1,7 @@
 ---
 title: "Text in the Dark: Extremely Low-light Text Image Enhancement"
 authors:
-  - me†
+  - Che-Tsung Lin†
   - Chun Chet Ng†
   - Zhi Qin Tan
   - Wan Jun Nah
