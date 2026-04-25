@@ -24,8 +24,6 @@ affiliations:
   - name: Zenseact
     url: https://www.zenseact.com/
 
-avatar:
-  filename: me.jpg
 links:
   - icon: at-symbol
     url: mailto:alex.johnson@example.com
