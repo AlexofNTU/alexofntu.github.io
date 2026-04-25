@@ -5,6 +5,7 @@ authors:
   - me
   - Christopher Zach
   - Shang-Hong Lai
+publishDate: "2025-01-01"
 date: "2026-08-01"
 publication_types: ["paper-conference"]
 publication: "International Conference on Pattern Recognition (ICPR)"
