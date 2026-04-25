@@ -3,7 +3,7 @@ title: "Adjustable Visual Appearance for Generalizable Novel View Synthesis"
 authors:
   - Josef Bengtson
   - David Nilsson
-  - me
+  - Che-Tsung Lin
   - Marcel Büsching
   - Fredrik Kahl
 date: "2024-07-01"
