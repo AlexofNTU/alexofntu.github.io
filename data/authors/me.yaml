@@ -21,11 +21,11 @@ bio: |
   in the fiels of generative models and autonomous driving.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Zenseact
+    url: https://www.zenseact.com/
 
 avatar:
-    filename: me.jpg
+  filename: me.jpg
 links:
   - icon: at-symbol
     url: mailto:alex.johnson@example.com
