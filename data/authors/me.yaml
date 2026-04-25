@@ -2,15 +2,14 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Che-Tsung Lin
+  display: Alex Che-Tsung, Lin (林哲聰)
   given: Che-Tsung
   family: Line
-  alternate: ''  # Example: 王伟
+  alternate: 'Che-Chung Lin'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns:
 postnominals:
-  - PhD
-  - MIEEE
+  - PhD  
 status:
   icon: "☕️"
 role: Deep Learning Engineer
@@ -18,7 +17,7 @@ bio: |
   Alex Lin is a Deep Learning Engineer at Zenseact (Volvo Cars). His research
   has been published in top conferences like CVPR, ECCV, AAAI, with over
   10,00 citations. Alex is passionate about pushing the boundaries of AI
-  in the fiels of generative models and autonomous driving.
+  in the fields of generative models and autonomous driving.
 
 affiliations:
   - name: Zenseact
@@ -26,91 +25,124 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:alexofntu@gmail.com
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/AlexofNTU
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/alexofntu/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=UewYUXwAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-5843-7294
 
 interests:
-  - Large Language Models
+  - Autonomous Driving
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Generative Models
+  - Perception Models
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: PhD in Computer Science
+    institution: National Tsing Hua University
+    start: 2014-09-01
+    end: 2020-01-31
+  - degree: MS in Applied Mechanics
+    institution: National Taiwan University
+    start: 2003-09-01
+    end: 2005-06-30
+  - degree: BS in Mechanical Engineering
+    institution: National Taiwan University of Science and Technology
+    start: 1998-09-01
+    end: 2003-06-30
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Deep Learning Engineer
+    org: Zenseact (Volvo Cars)
+    start: 2024-03-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Working in the DLROAD team on deep learning for autonomous driving perception.
+  - role: Postdoctoral Researcher
+    org: Chalmers University of Technology
+    start: 2020-09-01
+    end: 2024-02-29
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
+      Research in imaging, image analysis, and signal processing for autonomous systems.
+  - role: Associate Researcher/Researcher/Senior Researcher
+    org: Industrial Technology Research Institute (ITRI)
+    start: 2006-01-16
+    end: 2020-08-31
+    summary: |
+      Over 14 years of research in vision-based ADAS, lane detection, vehicle detection, and embedded systems.
+  - role: Visiting Researcher
+      org: University of California, Santa Barbara (UCSB)
+      start: 2013-04-01
+      end: 2013-10-01
+      summary: |
+        Visiting researcher in the Computer Science Department.
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
-    label: Fluent
+    label: Professional (TOEIC 945/990)
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Best Paper Award – 1st Prize
+    awarder: ICPRAI
+    date: "2024-07-01"
+    summary: Awarded for "Adjustable Visual Appearance for Generalizable Novel View Synthesis."
     icon: hero/trophy
+  - title: IICM PhD Dissertation Award
+    awarder: IICM
+    date: "2020-01-01"
+    summary: Awarded for outstanding PhD dissertation.
+    icon: hero/trophy
+  - title: CVGIP Excellent PhD Thesis Award
+    awarder: CVGIP
+    date: "2020-01-01"
+    icon: hero/trophy
+  - title: European Satellite Navigation Competition – 1st Place (Switzerland Region)
+      awarder: European GNSS Agency
+      date: "2013-01-01"
+      icon: hero/trophy
+  - title: European Satellite Navigation Competition – Special Topic Winner (GNSS Living Lab Prize)
+    awarder: European GNSS Agency
+    date: "2011-01-01"
+    icon: hero/trophy
+  - title: European Satellite Navigation Competition – 3rd Place (Taiwan Region)
+    awarder: European GNSS Agency
+    date: "2010-01-01"
+    summary: Open to people from all countries; 2nd most competitive region in the world.
+    icon: hero/trophy
+
+Experiences:
+  - title: Teaching Assistant – Computer Vision
+    awarder: National Tsing Hua University
+    date: "2019-09-01"
+    summary: Teaching Assistant for Computer Vision, Department of Computer Science, NTHU (2019/09–2020/01).
+    icon: hero/academic-cap
+
+  - title: IEEE ICIP Three Minute Thesis Competition (3MT®) – Finalist
+    awarder: IEEE ICIP
+    date: "2019-09-01"
+    icon: hero/trophy
+
+  - title: NTHU Representative – 8th Postgraduate Academic Forum
+    awarder: National Tsing Hua University
+    date: "2018-05-24"
+    icon: hero/academic-cap
+
+  - title: NTHU Representative – English Presentation Competition
+    awarder: Ritsumeikan University, Japan
+    date: "2016-10-07"
+    icon: hero/academic-cap
+
+  - title: Joint Translator – "Exploring the Digital Domain"
+    awarder: GrandTech Press
+    date: "2004-08-01"
+    summary: English to Chinese translation, GrandTech Press (2004/08–2004/12).
+    icon: hero/book-open
