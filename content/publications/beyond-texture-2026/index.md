@@ -2,7 +2,7 @@
 title: "Beyond Texture: Advanced Facial Privacy Protection via Hierarchical Diffusion Autoencoder"
 authors:
   - Ting-Yi Lu
-  - me
+  - Che-Tsung Lin
   - Christopher Zach
   - Shang-Hong Lai
 publishDate: "2025-01-01"
