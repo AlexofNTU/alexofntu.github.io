@@ -11,10 +11,10 @@ authors:
 author_notes:
   - "Equal Contribution"
   - "Equal Contribution"
-date: "2023-11-01"
+date: "2024-03-01"
 publication_types: ["article-journal"]
 publication: "Pattern Recognition"
-publication_short: "Pattern Recognition 2023"
+publication_short: "Pattern Recognition 2024"
 abstract: ""
 featured: true
 ---
