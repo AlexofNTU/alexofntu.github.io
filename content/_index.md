@@ -38,11 +38,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        My research spans computer vision and deep learning with a focus on autonomous driving and generative models. I have worked on lane detection, vehicle detection, camera calibration, and 2D/3D around-view monitoring systems for Advanced Driver Assistance Systems (ADAS). On the deep learning side, my work covers object detection, semantic and instance segmentation, generative models(GANs, Diffusion Models), domain adaptation, low-light image enhancement, and scene text detection. My work has been published in top venues including CVPR, ECCV, AAAI, IEEE T-ITS, IEEE T-VT, and Pattern Recognition. I am always happy to collaborate — feel free to reach out! 😃
     design:
       columns: '1'
   - block: collection
