@@ -2,27 +2,25 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Che-Tsung, Lin (林哲聰)
+  display: Alex Che-Tsung Lin (林哲聰)
   given: Che-Tsung
-  family: Line
-  alternate: 'Che-Chung Lin'  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns:
+  family: Lin
+  alternate: 'Che-Chung Lin'
+  pronunciation: ''
+  pronouns: ''
 postnominals:
-  - PhD  
+  - PhD
 status:
   icon: "☕️"
 role: Deep Learning Engineer
 bio: |
   Alex Lin is a Deep Learning Engineer at Zenseact (Volvo Cars). His research
   has been published in top conferences like CVPR, ECCV, AAAI, with over
-  10,00 citations. Alex is passionate about pushing the boundaries of AI
+  100 citations. Alex is passionate about pushing the boundaries of AI
   in the fields of generative models and autonomous driving.
-
 affiliations:
   - name: Zenseact
     url: https://www.zenseact.com/
-
 links:
   - icon: at-symbol
     url: mailto:alexofntu@gmail.com
@@ -34,16 +32,14 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexofntu/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=UewYUXwAAAAJ&hl=en
+    url: "https://scholar.google.com/citations?user=UewYUXwAAAAJ&hl=en"
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-5843-7294
-
 interests:
   - Autonomous Driving
   - Computer Vision
   - Generative Models
   - Perception Models
-
 education:
   - degree: PhD in Computer Science
     institution: National Tsing Hua University
@@ -57,7 +53,6 @@ education:
     institution: National Taiwan University of Science and Technology
     start: 1998-09-01
     end: 2003-06-30
-
 experience:
   - role: Deep Learning Engineer
     org: Zenseact (Volvo Cars)
@@ -77,24 +72,23 @@ experience:
     summary: |
       Over 14 years of research in vision-based ADAS, lane detection, vehicle detection, and embedded systems.
   - role: Visiting Researcher
-      org: University of California, Santa Barbara (UCSB)
-      start: 2013-04-01
-      end: 2013-10-01
-      summary: |
-        Visiting researcher in the Computer Science Department.
+    org: University of California, Santa Barbara (UCSB)
+    start: 2013-04-01
+    end: 2013-10-01
+    summary: |
+      Visiting researcher in the Computer Science Department.
 languages:
   - name: Chinese
     level: 5
     label: Native
   - name: English
     level: 4
-    label: Professional (TOEIC 945/990)
-
+    label: "Professional (TOEIC 945/990)"
 awards:
-  - title: Best Paper Award – 1st Prize
+  - title: Best Paper Award - 1st Prize
     awarder: ICPRAI
     date: "2024-07-01"
-    summary: Awarded for "Adjustable Visual Appearance for Generalizable Novel View Synthesis."
+    summary: "Awarded for Adjustable Visual Appearance for Generalizable Novel View Synthesis."
     icon: hero/trophy
   - title: IICM PhD Dissertation Award
     awarder: IICM
@@ -105,44 +99,38 @@ awards:
     awarder: CVGIP
     date: "2020-01-01"
     icon: hero/trophy
-  - title: European Satellite Navigation Competition – 1st Place (Switzerland Region)
-      awarder: European GNSS Agency
-      date: "2013-01-01"
-      icon: hero/trophy
-  - title: European Satellite Navigation Competition – Special Topic Winner (GNSS Living Lab Prize)
+  - title: European Satellite Navigation Competition - 1st Place (Switzerland Region)
+    awarder: European GNSS Agency
+    date: "2013-01-01"
+    icon: hero/trophy
+  - title: European Satellite Navigation Competition - Special Topic Winner (GNSS Living Lab Prize)
     awarder: European GNSS Agency
     date: "2011-01-01"
     icon: hero/trophy
-  - title: European Satellite Navigation Competition – 3rd Place (Taiwan Region)
+  - title: European Satellite Navigation Competition - 3rd Place (Taiwan Region)
     awarder: European GNSS Agency
     date: "2010-01-01"
     summary: Open to people from all countries; 2nd most competitive region in the world.
     icon: hero/trophy
-
-Experiences:
-  - title: Teaching Assistant – Computer Vision
+  - title: Teaching Assistant - Computer Vision
     awarder: National Tsing Hua University
     date: "2019-09-01"
-    summary: Teaching Assistant for Computer Vision, Department of Computer Science, NTHU (2019/09–2020/01).
+    summary: "Teaching Assistant for Computer Vision, Department of Computer Science, NTHU (2019/09-2020/01)."
     icon: hero/academic-cap
-
-  - title: IEEE ICIP Three Minute Thesis Competition (3MT®) – Finalist
+  - title: IEEE ICIP Three Minute Thesis Competition (3MT) - Finalist
     awarder: IEEE ICIP
     date: "2019-09-01"
     icon: hero/trophy
-
-  - title: NTHU Representative – 8th Postgraduate Academic Forum
+  - title: NTHU Representative - 8th Postgraduate Academic Forum
     awarder: National Tsing Hua University
     date: "2018-05-24"
     icon: hero/academic-cap
-
-  - title: NTHU Representative – English Presentation Competition
+  - title: NTHU Representative - English Presentation Competition
     awarder: Ritsumeikan University, Japan
     date: "2016-10-07"
     icon: hero/academic-cap
-
-  - title: Joint Translator – "Exploring the Digital Domain"
+  - title: Joint Translator - Exploring the Digital Domain
     awarder: GrandTech Press
     date: "2004-08-01"
-    summary: English to Chinese translation, GrandTech Press (2004/08–2004/12).
+    summary: "English to Chinese translation, GrandTech Press (2004/08-2004/12)."
     icon: hero/book-open
