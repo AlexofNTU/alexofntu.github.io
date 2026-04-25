@@ -14,8 +14,8 @@ role: PhD Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Your University
-    url: https://www.your-university.edu/
+  - name: National Tsing Hua University
+    url: https://www.nthu.edu.tw/
 
 # Short bio (displayed in user profiles)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -52,4 +52,4 @@ social:
 highlight_name: true
 ---
 
-Write a short bio about yourself here. This text appears on your homepage.
+I am a researcher in autonomous driving and generative models.
