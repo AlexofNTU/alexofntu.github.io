@@ -2,7 +2,7 @@
 title: "When IC Meets Text: Towards a Rich Annotated Integrated Circuit Text Dataset"
 authors:
   - Chun Chet Ng†
-  - me†
+  - Che-Tsung Lin†
   - Zhi Qin Tan
   - Xinyu Wang
   - Jie-Long Kew
