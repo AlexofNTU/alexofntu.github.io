@@ -1,7 +1,7 @@
 ---
 title: "Cycle-Object Consistency for Image-to-Image Domain Adaptation"
 authors:
-  - me
+  - Che-Tsung Lin
   - Jie-Long Kew
   - Chee Seng Chan
   - Shang-Hong Lai
