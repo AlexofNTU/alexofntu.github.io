@@ -1,7 +1,7 @@
 ---
 title: "A Novel Fast Dehazing Algorithm in Driver Assistance System"
 authors:
-  - Che-Tsung Lin
+  - Che-Chung Lin (Che-Tsung Lin)
   - Yu-Chen Lin
   - Long-Tai Chen
   - Yu-Shiang Fu
