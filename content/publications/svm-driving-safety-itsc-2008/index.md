@@ -1,7 +1,7 @@
 ---
 title: "Design a Support Vector Machine-based Intelligent System for Vehicle Driving Safety Warning"
 authors:
-  - Che-Tsung Lin
+  - Che-Chung Lin (Che-Tsung Lin)
   - Chi-Wei Lin
   - Dau-Chen Huang
   - Yung-Hsin Chen
