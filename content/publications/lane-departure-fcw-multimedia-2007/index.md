@@ -1,7 +1,7 @@
 ---
 title: "Development of a Multimedia-Based Vehicle Lane Departure Warning, Forward Collision Warning and Event Video Recorder Systems"
 authors:
-  - Che-Tsung Lin
+  - Che-Chung Lin (Che-Tsung Lin)
   - His-Wen Hsieh
   - Dau-Chen Huang
   - Chi-Wei Lin
