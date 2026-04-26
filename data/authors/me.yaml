@@ -53,7 +53,7 @@ education:
     institution: National Taiwan University of Science and Technology
     start: 1998-09-01
     end: 2003-06-30
-experience:
+employment history:
   - role: Deep Learning Engineer
     org: Zenseact (Volvo Cars)
     start: 2024-03-01
@@ -99,6 +99,10 @@ awards:
     awarder: CVGIP
     date: "2020-01-01"
     icon: hero/trophy
+  - title: MOST GAN Project Competition: Honorable Mention
+    awarder: Program Office of AI Research, MOST, Taiwan
+    date: "2017-12-01"
+    icon: hero/trophy    
   - title: European Satellite Navigation Competition - 1st Place (Switzerland Region)
     awarder: European GNSS Agency
     date: "2013-01-01"
@@ -112,6 +116,7 @@ awards:
     date: "2010-01-01"
     summary: Open to people from all countries; 2nd most competitive region in the world.
     icon: hero/trophy
+experience:
   - title: Teaching Assistant - Computer Vision
     awarder: National Tsing Hua University
     date: "2019-09-01"
