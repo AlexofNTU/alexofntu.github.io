@@ -76,7 +76,13 @@ experience:
     start: 2013-04-01
     end: 2013-10-01
     summary: |
-      Visiting researcher in the Computer Science Department.
+      Visiting researcher in the Computer Science Department.    
+  - role: Teaching Assistant - Computer Vision
+    org: National Tsing Hua University
+    start: 2019-09-15
+    end: 2020-01-10
+    summary:  |
+      "Teaching Assistant for Computer Vision, Department of Computer Science, NTHU (2019/09-2020/01)."    
   - role: Joint Translator - Exploring the Digital Domain
     org: GrandTech Press
     start: 2004-08-01
@@ -123,17 +129,26 @@ awards:
     date: "2010-01-01"
     summary: Open to people from all countries; 2nd most competitive region in the world.
     icon: hero/trophy
-  - title: Teaching Assistant - Computer Vision
-    awarder: National Tsing Hua University
-    date: "2019-09-01"
-    summary: "Teaching Assistant for Computer Vision, Department of Computer Science, NTHU (2019/09-2020/01)."
-    icon: hero/academic-cap
   - title: IEEE ICIP Three Minute Thesis Competition (3MT) - Finalist
     awarder: IEEE ICIP
     date: "2019-09-01"
     icon: hero/trophy
   - title: NTHU Representative - 8th Postgraduate Academic Forum
     awarder: National Tsing Hua University
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+      - label: Deep Learning        
+      - label: Computer Vision
+      - label: PyTorch
+      - label: OpenCV
+  - name: Hobbies
+    items:
+      - label: Magic (Licensed Taipei Street Artist (2008->now)
+        level: 3
+      - label: Cycling
+        level: 4    
     date: "2018-05-24"
     icon: hero/academic-cap
   - title: NTHU Representative - English Presentation Competition
