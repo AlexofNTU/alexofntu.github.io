@@ -2,7 +2,7 @@
 title: "Adaptive IPM-Based Lane Filtering for Night Forward Vehicle Detection"
 authors:
   - Yu-Chen Lin
-  - Che-Tsung Lin
+  - Che-Chung Lin (Che-Tsung Lin)
   - Long-Tai Chen
   - Ching-Kun Chen
 date: "2011-06-01"
