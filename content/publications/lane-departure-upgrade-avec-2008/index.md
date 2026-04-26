@@ -1,7 +1,7 @@
 ---
 title: "Upgrading the Capability of a Vision-based Vehicle Lane-Departure and Forward-Collision Warning System"
 authors:
-  - Che-Tsung Lin
+  - Che-Chung Lin (Che-Tsung Lin)
   - Yung-Hsin Chen
   - Chi-Wei Lin
   - Dau-Chen Huang
