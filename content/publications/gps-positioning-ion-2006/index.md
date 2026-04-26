@@ -1,7 +1,7 @@
 ---
 title: "Use of Residual DOP and Genetic Algorithm in Weighted-Least-Square GPS Positioning"
 authors:
-  - Che-Tsung Lin
+  - Che-Chung Lin (Che-Tsung Lin)
   - Li-Sheng Wang
   - Fan-Ren Chang
   - Chi-Chih Chen
