@@ -1,7 +1,7 @@
 ---
 title: "Embedded Vision-Based Collision Warning System for Monitoring The Blind Spot Area"
 authors:
-  - Che-Tsung Lin
+  - Che-Chung Lin (Che-Tsung Lin)
   - Chi-Wei Lin
 date: "2009-08-01"
 publishDate: "2009-08-01"
