@@ -132,9 +132,19 @@ awards:
   - title: IEEE ICIP Three Minute Thesis Competition (3MT) - Finalist
     awarder: IEEE ICIP
     date: "2019-09-01"
-    icon: hero/trophy
+    icon: hero/academic-cap
   - title: NTHU Representative - 8th Postgraduate Academic Forum
     awarder: National Tsing Hua University
+    date: "2018-05-24"
+    icon: hero/academic-cap
+  - title: NTHU Representative - English Presentation Competition
+    awarder: Ritsumeikan University, Japan
+    date: "2016-10-07"
+    icon: hero/academic-cap
+  - title:  Close-Up Magic Competition:2nd place
+    awarder: World Magic Symposium
+    date: "2010-10-01"
+    icon: hero/trophy     
 skills:
   - name: Technical Skills
     items:
@@ -151,7 +161,4 @@ skills:
         level: 4    
     date: "2018-05-24"
     icon: hero/academic-cap
-  - title: NTHU Representative - English Presentation Competition
-    awarder: Ritsumeikan University, Japan
-    date: "2016-10-07"
-    icon: hero/academic-cap
+
